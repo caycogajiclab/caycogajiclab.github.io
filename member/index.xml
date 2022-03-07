@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Members on Cayco Gajic Lab</title>
+    <link>http://caycogajiclab.github.io/member/</link>
+    <description>Recent content in Members on Cayco Gajic Lab</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <copyright>&amp;copy; Your Name, 2022 </copyright>
+    <lastBuildDate>Tue, 12 Jul 2016 15:52:22 +0200</lastBuildDate>
+    
+	<atom:link href="http://caycogajiclab.github.io/member/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Alex Cayco Gajic</title>
+      <link>http://caycogajiclab.github.io/member/alex/</link>
+      <pubDate>Tue, 12 Jul 2016 15:52:22 +0200</pubDate>
+      
+      <guid>http://caycogajiclab.github.io/member/alex/</guid>
+      <description>I am a junior professor at the Group for Neural Theory at Ecole Normale Supérieure in Paris . I am interested in how different brain regions coordinate for flexible motor control.
+Training : I received a PhD in applied mathematics at the University of Washington in Seattle (in Eric Shea Brown&amp;rsquo;s lab) where my dissertation focused on how correlated neural activity impacts population coding. I then joined Angus Silver&amp;rsquo;s lab in University College London to study the cerebellum and get my hands dirty with large-scale data analysis.</description>
+    </item>
+    
+  </channel>
+</rss>
