@@ -6,20 +6,10 @@
     <description>Recent content on Cayco Gajic Lab</description>
     <generator>Hugo -- gohugo.io</generator>
     <copyright>&amp;copy; Cayco Gajic Lab, 2022 </copyright>
-    <lastBuildDate>Tue, 12 Jul 2016 16:50:58 +0200</lastBuildDate>
+    <lastBuildDate>Tue, 12 Jul 2016 16:37:31 +0200</lastBuildDate>
     
 	<atom:link href="https://caycogajiclab.github.io/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>Test post please ignore</title>
-      <link>https://caycogajiclab.github.io/post/post2/</link>
-      <pubDate>Tue, 12 Jul 2016 16:50:58 +0200</pubDate>
-      
-      <guid>https://caycogajiclab.github.io/post/post2/</guid>
-      <description>Est Procrin Terrigenam rorant colla victoria per monstra obiecit Lorem markdownum, Circaea: neque Phrygiae et bacarum caelo, iniectos. Ut tenvit per coniecta? Vagantem aut nunc velocibus praenuntia tenuit a Phoebi convicia mentis, conveniunt hunc! Supervolat domitis pronusque in artus, postquam videt et mediis. Pectine rigorem aethera, signum, saucia Salmacis si facibus pectore aversos gentes neve, et usus siqua.
-Aestuque deceant fuerat quam iura Rabie intus fugio potentia, protecta proculcat pelle, membris in praesens lustrantem ignis inmemores puer mitissima tenent.</description>
-    </item>
     
     <item>
       <title>Deep Learning</title>
@@ -68,26 +58,6 @@ Training : I received a PhD in applied mathematics at the University of Washingt
       <guid>https://caycogajiclab.github.io/member/heike/</guid>
       <description>Since 2020, I am a postdoc with Alex Cayco Gajic at the Group for Neural Theory. Before that, I obtained my PhD from the Universitat de Barcelona, Spain, where I worked with Albert Compte to understand how NMDA receptor dysfunction affects working memory by altering prefrontal attractor dynamics.
 In my postdoc, I am diving into the fields of motor learning and naturalistic behavior, the cerebellum, and how the cerebellum interacts with the neocortex to guide behavior and learning.</description>
-    </item>
-    
-    <item>
-      <title>Jupyter Notebook</title>
-      <link>https://caycogajiclab.github.io/post/notebook/</link>
-      <pubDate>Tue, 12 Jul 2016 15:50:58 +0200</pubDate>
-      
-      <guid>https://caycogajiclab.github.io/post/notebook/</guid>
-      <description>An IJulia Preview This notebook is a preview demo of IJulia: a Julia-language backend combined with the IPython interactive environment. This combination allows you to interact with the Julia language using IPython&amp;rsquo;s powerful graphical notebook, which combines code, formatted text, math, and multimedia in a single document.
- Note: this is a preview, because it relies on pre-release bleeding-edge versions of Julia, IPython, and several Julia packages, as explained on the IJulia github page, and functionality is evolving rapidly.</description>
-    </item>
-    
-    <item>
-      <title>Markdown ipsum</title>
-      <link>https://caycogajiclab.github.io/post/post1/</link>
-      <pubDate>Tue, 12 Jul 2016 15:50:58 +0200</pubDate>
-      
-      <guid>https://caycogajiclab.github.io/post/post1/</guid>
-      <description>Magorum notissima limite sua pars simus sumptis Incessit ignota coniunx serpunt Lorem markdownum ab cunas, semine commissus matrona manibusque plumis, nova sub Spartana loca ignibus. In partibus muneris, paludes rara, plectrumque, fontis, concubitus a locoque demptos exclamat conde ab aethera nihil.
- Quamquam abit vulnere nec intus decidit clamor Nocuit quae tamen timent aperta Cervice preces totumque postquam nunc iacit sive Potestas te sis putaret sceleri totiens Retro profundo ad sede Iovem in este In ait flumina intrare Troiae  Ut fatis praecordia alvum iamque, adeo tympana male silvas.</description>
     </item>
     
     <item>
