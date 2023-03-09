@@ -6,10 +6,19 @@
     <description>Recent content on Cayco Gajic Lab</description>
     <generator>Hugo -- gohugo.io</generator>
     <copyright>&amp;copy; Cayco Gajic Lab, 2022 </copyright>
-    <lastBuildDate>Thu, 24 Jun 2021 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 02 Mar 2023 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://caycogajiclab.github.io/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Disentangling Mixed Classes of Covariability in Large-Scale Neural Data</title>
+      <link>https://caycogajiclab.github.io/publication/slicetca/</link>
+      <pubDate>Thu, 02 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://caycogajiclab.github.io/publication/slicetca/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Cerebellar granule cell axons support high-dimensional representations</title>
@@ -72,40 +81,8 @@ In my postdoc, I am diving into the fields of motor learning and naturalistic be
       <pubDate>Tue, 12 Jul 2016 15:52:22 +0200</pubDate>
       
       <guid>https://caycogajiclab.github.io/member/mattia/</guid>
-      <description>I am a research assistant at the Group for Neural Theory at Ecole Normale Supérieure in Paris . I have interests at the interface between Computational Neuroscience and Artificial Intelligence.
-I performed my Bachelor internship in the laboratory of Luca Berdondini at Italian Institute of Technology on large-scale neural recordings, spike sorting, and clustering. My Master thesis focused on Stochastic Gradient Descent methods for training Recurrent Neural Networks inspired by findings in the cerebellum and it was supervised by Vincent Hakim at LPENS.</description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://caycogajiclab.github.io/about/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://caycogajiclab.github.io/about/</guid>
-      <description>About us The central aim of our research is to understand the cerebellum’s role in behaviour.
-The cerebellum is a unique region because of its evolutionarily-conserved, structured architecture and key role in motor learning. Inspired by its so-called ‘crystalline’ circuitry, classic theories have argued that the cerebellum performs sensorimotor prediction in order to coordinate, adapt, and fine-tune movements during learning.
-However, over the past several years, accumulating evidence in humans and mice has hinted that the cerebellum plays a subtle, yet important, role in cognitive processing as well.</description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://caycogajiclab.github.io/approach/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://caycogajiclab.github.io/approach/</guid>
-      <description>Et malis vellet tellus deseruere in credant Inde sidera moenia lacertis nomen nostra membra Lorem markdownum miranti. Sonus faciunt omnibus frustra: illa possem ad regio Anubis tamen. Sustulerat debent fluviis herbis attollere rogus et formae nitentem avellere motis clipeus Achilles felix videam undas. Posuit haec ipse posse.
-Ore fame mons Olympi tantae stringit columbas proxima habebat, longius alta non. Haeserat gerunt detinuit genis est huc, dixit tam dumque nitidum.
- Cristata causam Triones moenia habentem subito utentem Astraea castris contentus nisi leve eum invia Inferiusque capta cognoscenda flaventi locuta notavi fallere Moriens scripsi ictus tuo cum  Tarpeias insurgens summo sinistra vertice, in neve utroque exempla Cyparissus tanta tecti terras.</description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://caycogajiclab.github.io/mission/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://caycogajiclab.github.io/mission/</guid>
-      <description>Auras queritur facientes dixit venti sustinui E in mora Lorem markdownum poenaque nuper destituit silendo quoniam, nec ait consorte membra, figuram hanc cum. Manifesta vitae facies exiguumque iunctam dictis. Vidit eadem, hanc cum descendit sinu misit quem fecit, positisque pastorve. Missus solos potentia in erant noctem est!
-if (dvdProcessorVolume &amp;lt; mpegProcess(slashdot, gigahertz)) { transferAnsiBotnet.and(logSoftware, hsfClipboardSubnet.queue_publishing( systemMemory, 5, yahoo)); } else { swappableIpv -= spoolingAdwareCrossplatform; extranetAppArchitecture(1, dtd_rpc_font(45, 67, development_sli)); } antivirus_ipv = touchscreenFiosGrep.</description>
+      <description>I am a PhD student at the Group for Neural Theory at Ecole Normale Supérieure in Paris . I have interests at the interface of Computational Neuroscience and Artificial Intelligence.
+I performed my bachelor internship in the laboratory of Luca Berdondini at Italian Institute of Technology on large-scale neural recordings, spike sorting, and clustering. My master thesis focused on stochastic gradient descent methods for training recurrent neural networks inspired by biological findings under the supervision of Vincent Hakim at LPENS.</description>
     </item>
     
     <item>
@@ -124,16 +101,16 @@ Minyae adgnoscitque fugiebat parentis ausum superos huius Ait erili meruisse iac
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://caycogajiclab.github.io/member/leo/</guid>
-      <description>I am a Ph.D. in the Group of Neural Theory at ENS in Paris. I am currently working on probing the Cerebello-cortical loop during motor learning and behavior through Machine Learning and Mathematical techniques.Before it, I was a research assistant in the group of Andrea Calimera, EDA, Politecnico di Torino, working in Machine learning techniques application on predictive mainenance in the MADEin4 and R3-PowerUP European Projects, and on development of Neural Network properties verification algorithms.</description>
+      <description>I am a Ph.D. in the Group for Neural Theory at ENS in Paris. I am currently working on probing the cerebello-cortical loop during motor learning and behavior through mMachine learning and mathematical techniques.Previously, I was a research assistant in the group of Andrea Calimera, EDA, Politecnico di Torino, working in machine learning techniques application on predictive maintenance in the MADEin4 and R3-PowerUP european projects, and on development of neural network properties verification algorithms.</description>
     </item>
     
     <item>
       <title>The mission of the group</title>
-      <link>https://caycogajiclab.github.io/research/</link>
+      <link>https://caycogajiclab.github.io/overview/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://caycogajiclab.github.io/research/</guid>
-      <description>About us The central aim of our research is to understand the cerebellum’s role in behaviour.
+      <guid>https://caycogajiclab.github.io/overview/</guid>
+      <description>Research Overview The central aim of our research is to understand the cerebellum’s role in behaviour.
 The cerebellum is a unique region because of its evolutionarily-conserved, structured architecture and key role in motor learning. Inspired by its so-called ‘crystalline’ circuitry, classic theories have argued that the cerebellum performs sensorimotor prediction in order to coordinate, adapt, and fine-tune movements during learning.
 However, over the past several years, accumulating evidence in humans and mice has hinted that the cerebellum plays a subtle, yet important, role in cognitive processing as well.</description>
     </item>
