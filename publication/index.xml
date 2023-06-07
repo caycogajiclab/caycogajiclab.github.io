@@ -6,11 +6,7 @@
     <description>Recent content in Publications on Cayco Gajic Lab</description>
     <generator>Hugo -- gohugo.io</generator>
     <copyright>&amp;copy; Cayco Gajic Lab, 2022 </copyright>
-    <lastBuildDate>Thu, 02 Mar 2023 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="https://caycogajiclab.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Thu, 02 Mar 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://caycogajiclab.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Disentangling Mixed Classes of Covariability in Large-Scale Neural Data</title>
       <link>https://caycogajiclab.github.io/publication/slicetca/</link>
