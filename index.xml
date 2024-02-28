@@ -5,9 +5,44 @@
     <link>https://caycogajiclab.github.io/</link>
     <description>Recent content on Cayco Gajic Lab</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language>
     <copyright>&amp;copy; Cayco Gajic Lab, 2022 </copyright>
-    <lastBuildDate>Thu, 02 Mar 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://caycogajiclab.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 22 Feb 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://caycogajiclab.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>The role of gap junctions and clustered connectivity in emergent synchronisation patterns of inhibitory neuronal networks</title>
+      <link>https://caycogajiclab.github.io/publication/mli-neural-mass/</link>
+      <pubDate>Thu, 22 Feb 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://caycogajiclab.github.io/publication/mli-neural-mass/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Signatures of task learning in neural representations</title>
+      <link>https://caycogajiclab.github.io/publication/signaturesoflearningreview/</link>
+      <pubDate>Fri, 01 Dec 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://caycogajiclab.github.io/publication/signaturesoflearningreview/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cerebellar interneuron activity is triggered by reach endpoint during learning of a complex locomotor task</title>
+      <link>https://caycogajiclab.github.io/publication/loco-reach/</link>
+      <pubDate>Fri, 10 Nov 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://caycogajiclab.github.io/publication/loco-reach/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Low tensor rank learning of neural dynamics</title>
+      <link>https://caycogajiclab.github.io/publication/ltr-rnn/</link>
+      <pubDate>Tue, 22 Aug 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://caycogajiclab.github.io/publication/ltr-rnn/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>Disentangling mixed classes of covariability in large-scale neural data</title>
       <link>https://caycogajiclab.github.io/publication/slicetca/</link>
@@ -102,12 +137,22 @@ Minyae adgnoscitque fugiebat parentis ausum superos huius Ait erili meruisse iac
     </item>
     
     <item>
+      <title>Hugo Ninou</title>
+      <link>https://caycogajiclab.github.io/member/hugo/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://caycogajiclab.github.io/member/hugo/</guid>
+      <description>I am a Ph.D. in the Group for Neural Theory at ENS in Paris under the joint supervision of Alex Cayco Gajic and Jonathan Kadmon.
+My work focuses on the dynamics of learning in biologically plausible neural networks. I&amp;rsquo;m particularly interested in the Hebbian dynamics of learning, its involvement in representational drift and potential applications to AI systems.</description>
+    </item>
+    
+    <item>
       <title>Leonardo Agueci</title>
       <link>https://caycogajiclab.github.io/member/leo/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://caycogajiclab.github.io/member/leo/</guid>
-      <description>I am a Ph.D. in the Group for Neural Theory at ENS in Paris. I am currently working on probing the cerebello-cortical loop during motor learning and behavior through mMachine learning and mathematical techniques. Previously, I was a research assistant in the group of Andrea Calimera, EDA, Politecnico di Torino, working in machine learning techniques application on predictive maintenance in the MADEin4 and R3-PowerUP european projects, and on development of neural network properties verification algorithms.</description>
+      <description>I am a Ph.D. in the Group for Neural Theory at ENS in Paris. I am currently working on probing the cerebello-cortical loop during motor learning and behavior through mMachine learning and mathematical techniques.Previously, I was a research assistant in the group of Andrea Calimera, EDA, Politecnico di Torino, working in machine learning techniques application on predictive maintenance in the MADEin4 and R3-PowerUP european projects, and on development of neural network properties verification algorithms.</description>
     </item>
     
     <item>

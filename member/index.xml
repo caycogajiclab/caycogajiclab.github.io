@@ -5,7 +5,6 @@
     <link>https://caycogajiclab.github.io/member/</link>
     <description>Recent content in Members on Cayco Gajic Lab</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language>
     <copyright>&amp;copy; Cayco Gajic Lab, 2022 </copyright>
     <lastBuildDate>Tue, 12 Jul 2016 15:52:22 +0200</lastBuildDate><atom:link href="https://caycogajiclab.github.io/member/index.xml" rel="self" type="application/rss+xml" />
     <item>
@@ -47,12 +46,22 @@ I performed my bachelor internship in the laboratory of Luca Berdondini at Itali
     </item>
     
     <item>
+      <title>Hugo Ninou</title>
+      <link>https://caycogajiclab.github.io/member/hugo/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://caycogajiclab.github.io/member/hugo/</guid>
+      <description>I am a Ph.D. in the Group for Neural Theory at ENS in Paris under the joint supervision of Alex Cayco Gajic and Jonathan Kadmon.
+My work focuses on the dynamics of learning in biologically plausible neural networks. I&amp;rsquo;m particularly interested in the Hebbian dynamics of learning, its involvement in representational drift and potential applications to AI systems.</description>
+    </item>
+    
+    <item>
       <title>Leonardo Agueci</title>
       <link>https://caycogajiclab.github.io/member/leo/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://caycogajiclab.github.io/member/leo/</guid>
-      <description>I am a Ph.D. in the Group for Neural Theory at ENS in Paris. I am currently working on probing the cerebello-cortical loop during motor learning and behavior through mMachine learning and mathematical techniques. Previously, I was a research assistant in the group of Andrea Calimera, EDA, Politecnico di Torino, working in machine learning techniques application on predictive maintenance in the MADEin4 and R3-PowerUP european projects, and on development of neural network properties verification algorithms.</description>
+      <description>I am a Ph.D. in the Group for Neural Theory at ENS in Paris. I am currently working on probing the cerebello-cortical loop during motor learning and behavior through mMachine learning and mathematical techniques.Previously, I was a research assistant in the group of Andrea Calimera, EDA, Politecnico di Torino, working in machine learning techniques application on predictive maintenance in the MADEin4 and R3-PowerUP european projects, and on development of neural network properties verification algorithms.</description>
     </item>
     
   </channel>
