@@ -1,12 +1,21 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Cayco Gajic Lab</title>
+    <title>Neural Representations of Learning and Behahvior</title>
     <link>https://caycogajiclab.github.io/</link>
-    <description>Recent content on Cayco Gajic Lab</description>
+    <description>Recent content on Neural Representations of Learning and Behahvior</description>
     <generator>Hugo -- gohugo.io</generator>
     <copyright>&amp;copy; Cayco Gajic Lab, 2022 </copyright>
-    <lastBuildDate>Thu, 22 Feb 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://caycogajiclab.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 06 May 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://caycogajiclab.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Dimensionality reduction beyond neural subspaces with slice tensor component analysis</title>
+      <link>https://caycogajiclab.github.io/publication/slicetca/</link>
+      <pubDate>Mon, 06 May 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://caycogajiclab.github.io/publication/slicetca/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>The role of gap junctions and clustered connectivity in emergent synchronisation patterns of inhibitory neuronal networks</title>
       <link>https://caycogajiclab.github.io/publication/mli-neural-mass/</link>
@@ -40,15 +49,6 @@
       <pubDate>Tue, 22 Aug 2023 00:00:00 +0000</pubDate>
       
       <guid>https://caycogajiclab.github.io/publication/ltr-rnn/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Disentangling mixed classes of covariability in large-scale neural data</title>
-      <link>https://caycogajiclab.github.io/publication/slicetca/</link>
-      <pubDate>Thu, 02 Mar 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://caycogajiclab.github.io/publication/slicetca/</guid>
       <description></description>
     </item>
     
@@ -161,9 +161,9 @@ My work focuses on the dynamics of learning in biologically plausible neural net
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://caycogajiclab.github.io/overview/</guid>
-      <description>Research Overview The central aim of our research is to understand the cerebellum’s role in behaviour.
-The cerebellum is a unique region because of its evolutionarily-conserved, structured architecture and key role in motor learning. Inspired by its so-called ‘crystalline’ circuitry, classic theories have argued that the cerebellum performs sensorimotor prediction in order to coordinate, adapt, and fine-tune movements during learning.
-However, over the past several years, accumulating evidence in humans and mice has hinted that the cerebellum plays a subtle, yet important, role in cognitive processing as well.</description>
+      <description>Research Overview The overarching goal of our team is to understand how neural populations represent behavior and change over learning, using mathematical modelling and through development of data-driven methods.
+We currently have openings - contact Alex if you are interested in joining the team!
+ </description>
     </item>
     
   </channel>
