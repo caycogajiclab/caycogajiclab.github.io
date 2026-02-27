@@ -821,7 +821,7 @@ nav#navbar-main li {
 }
 
 @media screen and (max-width: 1000px) {
-    /* New part */
+    /* ── HEADER ── */
 
      header {
         height: 60vh;
@@ -836,7 +836,7 @@ nav#navbar-main li {
         padding: 5vh 20px;   /* just a light top/bottom buffer, not structural */
         width: 100%;
         max-height: 40%;
-        overflow: hidden;
+        overflow: visible;
         display: flex;
         align-items: center;
         justify-content: center;
@@ -858,17 +858,28 @@ nav#navbar-main li {
         font-size: 18px;
         padding: 10px 0 8px 0;
     }
+
+    /* ── NAVBAR ── */
     .navbar {
         margin-bottom: 0;
         min-height: 50px !important;
     }
-
     .navbar-brand,
     .navbar-brand a {
-        padding: 50px 6px;
-        line-height: 50px;
+        padding: 5px 6px;
+        line-height: 8px;
     }
-
+    .navbar-brand {
+        font-size: 0;
+        padding-top: 0px;
+        display: inline;
+    }
+    .navbar-brand > a:not(.logo) {
+        display: none;
+    }
+    .navbar-brand a.logo {
+        text-decoration: none;
+    }
     .navbar-brand img,
     .navbar-brand a img,
     .navbar-brand img.logo,
@@ -877,36 +888,7 @@ nav#navbar-main li {
         max-height: 36px;
         height: auto;
         display: block;
-    };
-    .navbar-brand > a:not(.logo) {
-        display: none;
     }
-
-    .navbar-brand {
-        font-size: 0;           /* hide text nodes (the slashes) */
-    }
-    #members > .container > .row {
-        text-align: center;
-    }
-    /* end of new part */
-
-    /* removed part */
-    /* .navbar {
-        min-height: 50px !important;
-    } 
-    header {
-        height: 60vh;
-        background-position: center center;
-        background-repeat: no-repeat;
-        background-color: #fff;
-        overflow: hidden;
-    }
-    .header-content {
-        padding: 260px 20px;  
-        max-height: 60vh;      
-        overflow: hidden;      
-    }*/
-    /* end of removed part */
     .navbar-header {
         float: none;
         min-height: inherit;
@@ -921,6 +903,8 @@ nav#navbar-main li {
     .navbar-collapse {
         border-top: 1px solid transparent;
         box-shadow: inset 0 1px 0 rgba(255,255,255,0.1);
+        height: auto !important;
+        max-height: none !important;
     }
     .navbar-fixed-top {
         top: 0;
@@ -928,40 +912,87 @@ nav#navbar-main li {
     }
     .navbar-static-top {
         top: 0;
-        border-width: 0 0 1px;   
+        border-width: 0 0 1px;
     }
     .navbar-collapse.collapse {
-        display: none!important;
+        display: none !important;
+    }
+    .navbar-collapse.collapse.in,
+    .navbar-collapse.collapsing {
+        display: block !important;
+    }
+    .navbar-collapse.in {
+        height: auto !important;
+        overflow-y: visible !important;
     }
     .navbar-nav {
-        float: none!important;
+        float: none !important;
         margin-top: 7.5px;
-        display: none;           /* hide the navbar links entirely */
+        display: none;
     }
-    .navbar-nav>li {
+    .navbar-collapse.in .navbar-nav {
+        display: block !important;
+    }
+    .navbar-nav > li {
         float: none;
     }
-    .navbar-nav>li>a {
+    .navbar-nav > li > a {
         padding-top: 10px;
         padding-bottom: 10px;
         line-height: normal;
     }
-    .collapse.in{
-        display:block !important;
-    }
-    .navbar-brand {
-        padding-top: 0px;
-        display:inline;
+    .collapse.in {
+        display: block !important;
     }
 
-    .navbar-brand a.logo {
-         text-decoration: none;
+    /* ── CONTACT ── */
+    #contact {
+        font-size: 14px;
+    }
+    #contact li span {
+        font-size: 14px;
+        padding-left: 10px;
+    }
+    #contact ul {
+        margin-top: 10px;
+        margin-bottom: 10px;
+    }
+    #contact li {
+        margin-bottom: 8px;
     }
 
-    .navbar-brand a img {
-        height: 40px;
-        display:inline;
+    #contact > .container > .row {
+        text-align: center;
     }
+
+    /* ── MISC ── */
+    .project-picture {
+        display: block;
+    }
+    .article-style figure.left-inline {
+        display: block;
+        float: none;
+        margin: 0 auto;
+    }
+    .article-style figure.right-inline {
+        display: block;
+        float: none;
+        margin: 0 auto;
+    }
+
+    #members > .container > .row {
+        text-align: center;
+    }
+
+    #publications > .container > .row {
+        text-align: center;
+    }
+
+    #contact > .container > .row {
+        text-align: center;
+    }
+
+    
 }
 
 
