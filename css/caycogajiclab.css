@@ -19,13 +19,14 @@
 }
 
 header{
-    background-image: url("/img/header.png");
+    background-image: url("/img/header2.png");
     background-size: cover;
+    background-repeat: no-repeat;
     text-align: center;
     color: #fff;
     background-position: center;
-    min-height: 125%; 
-    min-width: 90%; 
+    min-height: 100%; 
+    min-width: 100%;
 }
 
 .header-content {
@@ -38,6 +39,11 @@ header{
     margin-top: 0;
     margin-bottom: 0;
     font-weight: 700;
+    text-shadow:
+        0.5px  0.5px  0 #000,
+        -0.5px  0.5px  0 #000,
+        0.5px -0.5px  0 #000,
+        -0.5px -0.5px  0 #000;
 }
 
 .header-content .header-content-inner hr {
@@ -45,7 +51,7 @@ header{
 }
 
 .header-content .header-content-inner p.slogan-text {
-    font-size: 34px;
+    font-size: 24px;
     padding: 45px 0px 25px 0px;
 }
 
@@ -815,9 +821,63 @@ nav#navbar-main li {
 }
 
 @media screen and (max-width: 1000px) {
+    /* New part */
+    header {
+        max-height: 80vh;
+        background-position: center center;
+        background-size: cover;
+        background-repeat: no-repeat;
+        background-color: #fff;
+        overflow: hidden;
+    }
+    .header-content {
+        padding: 80px 20px;      /* reduce from 350px */
+        max-height: 60vh;        /* keep header visually compact */
+        overflow: hidden;        /* avoid extreme vertical growth */
+    }
+    .header-content .header-content-inner h1 {
+        /* responsive, larger than 60% but constrained */
+        font-size: clamp(22px, 6.5vw, 30px);
+        line-height: 1.05;
+        margin-bottom: 8px;
+        text-shadow:
+            0.5px  0.5px  0 #000,
+            -0.5px  0.5px  0 #000,
+            0.5px -0.5px  0 #000,
+            -0.5px -0.5px  0 #000;
+    }
+
+    .header-content .header-content-inner p.slogan-text {
+        font-size: 18px;
+        padding: 10px 0 8px 0;
+    }
     .navbar {
+        margin-bottom: 0;
         min-height: 50px !important;
     }
+
+    .navbar-brand,
+    .navbar-brand a {
+        padding: 5px 12px;
+        line-height: 40px;
+    }
+
+    .navbar-brand img,
+    .navbar-brand a img,
+    .navbar-brand img.logo,
+    img.ens-logo,
+    .ens-logo img {
+        max-height: 36px;
+        height: auto;
+        display: block;
+    }
+    /* end of new part */
+
+    /* removed part */
+    /* .navbar {
+        min-height: 50px !important;
+    } */
+    /* end of removed part */
     .navbar-header {
         float: none;
         min-height: inherit;

@@ -37,14 +37,15 @@
 
 
     <link rel="shortcut icon" href="https://caycogajiclab.github.io//img/favicon.ico" type="image/x-icon">
-    <link rel="canonical" href="https://caycogajiclab.github.io/member/helen/">
+    <link rel="canonical" href="https://caycogajiclab.github.io/publication/curl-descent/">
 
-    <title>Helen Todd | Cayco Gajic Lab</title>
+    <title>Curl Descent : Non-Gradient Learning Dynamics with Sign-Diverse Plasticity | Cayco Gajic Lab</title>
 
 </head>
 
 <body>
 <div class="home-anchor" id="home"></div>
+
 
 
 <nav class="navbar navbar-default navbar-fixed-top" id="navbar-main">
@@ -94,18 +95,12 @@
                         <li class="nav-item"><a data-scroll href="https://caycogajiclab.github.io/#top">Home</a></li>
                     
                 
-                        
-                        
-                        <li class="dropdown">
-                            <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Research <span class="caret"></span></a>
-                            <ul class="dropdown-menu">
-                              
-                                <li><a href="https://caycogajiclab.github.io/overview">Overview</a></li>
-                              
-                                <li><a href="https://caycogajiclab.github.io/member">People</a></li>
-                              
-                            </ul>
-                          </li>
+                    
+                        <li class="nav-item"><a data-scroll href="https://caycogajiclab.github.io/overview">Research</a></li>
+                    
+                
+                    
+                        <li class="nav-item"><a data-scroll href="https://caycogajiclab.github.io/member">Team</a></li>
                     
                 
                     
@@ -124,121 +119,127 @@
 </nav>
 
 
+
 <div class="container">
-<div class="row" itemprop="author" itemscope itemtype="http://schema.org/Person">
-    <div class="col-xs-12 col-md-4">
-        <div id="profile">
 
-            <div class="portrait" itemprop="image" style="background-image: url('https://caycogajiclab.github.io//img//portraits/helen.jpg');"></div>
+    <div class="pub" itemscope itemtype="http://schema.org/CreativeWork">
 
-            <div class="portrait-title">
-                <h2 itemprop="name">Helen Todd</h2>
-                <h3 itemprop="jobTitle"></h3>
-                
-                    <h4>PhD Student</h4>
-                
-            </div>
-
-            <ul class="social-icon">
-                
-                <li>
-                    <a href="mailto:helene.todd@ens.psl.eu">
-                    
-                        <i class="fa fa-envelope big-icon" aria-hidden="true"></i>
-                    
-                    </a>
-                </li>
-                
-                <li>
-                    <a href="https://github.com/helene-todd">
-                    
-                        <i class="fa fa-github big-icon" aria-hidden="true"></i>
-                    
-                    </a>
-                </li>
-                
-            </ul>
-
-            <div class="row">
-                
-            </div>
-
-            <div class="row">
-                
-            </div>
-
-        </div>
-    </div>
-
-    <div class="visible-sm visible-xs"></div>
-    <div class="col-xs-12 col-md-8" itemprop="description">
-        <div class="row">
-
-            
-            <div class="col-sm-5">
-                <h3>Interests</h3>
-                <ul>
-                    
-                    <li>Computational Neuroscience</li>
-                    
-                    <li>Dynamical Systems</li>
-                    
-                    <li>Cerebellum</li>
-                    
-                </ul>
-            </div>
-            
-
-
-            
-            <div class="col-sm-7">
-                <h3>Education</h3>
-                <ul class="ul-edu fa-ul">
-                    
-                    <li>
-                        <i class="fa-li fa fa-graduation-cap"></i>
-                        <div class="description">
-                            <p class="course">M.Sc. in Cognitive Science, Modelling Major, 2021</p>
-                            <p class="institution">ENS PSL</p>
-                        </div>
-                    </li>
-                    
-                    <li>
-                        <i class="fa-li fa fa-graduation-cap"></i>
-                        <div class="description">
-                            <p class="course">B.Sc. in Mathematics, 2018</p>
-                            <p class="institution">Sorbonne Universite, Paris</p>
-                        </div>
-                    </li>
-                    
-                </ul>
-            </div>
-            
-
-        </div>
-
-           
-            
-            
-            
-            
-            
         <div class="row">
             <div class="col-sm-12">
-                <h3>Biography</h3>
-                 <div class="article-style"><p>I am currently doing a PhD under the co-supervision of Boris Gutkin and Alex Cayco-Gajic at ENS Paris. My thesis focuses on modelling rapid synchronisation of interneurons in the cerebellum.</p>
+                <div class="pub-title">
+                    <h1 itemprop="name">Curl Descent : Non-Gradient Learning Dynamics with Sign-Diverse Plasticity</h1>
+                </div>
+            </div>
+        </div>
+        
+        <div class="row">
+            <div class="col-sm-12">
+                <div class="pub-authors" itemprop="author">
+                    
+<div itemprop="author">
+        
+            
+                
+<span class="author-name">H. Ninou</span>,
+            
+                
+<span class="author-name">J. Kadmon</span>,
+            
+            
+                 
+<span class="author-name">N. Alex Cayco-Gajic</span>
+            
+        
 </div>
+
+                </div>
             </div>
         </div>
 
+        
+        
+        <div class="row">
+            <div class="col-sm-12">
+                <h3>Abstract</h3>
+            </div>
+        </div>
+        
+        <div class="row">
+            <div class="col-sm-12">
+                <p class="pub-abstract" itemprop="text">Gradient-based algorithms are a cornerstone of artificial neural network training, yet it remains unclear whether biological neural networks use similar gradient-based strategies during learning. Experiments often discover a diversity of synaptic plasticity rules, but whether these amount to an approximation to gradient descent is unclear. Here we investigate a previously overlooked possibility: that learning dynamics may include fundamentally non-gradient &lsquo;curl&rsquo;-like components while still being able to effectively optimize a loss function. Curl terms naturally emerge in networks with inhibitory-excitatory connectivity or Hebbian/anti-Hebbian plasticity, resulting in learning dynamics that cannot be framed as gradient descent on any objective. To investigate the impact of these curl terms, we analyze feedforward networks within an analytically tractable student-teacher framework, systematically introducing non-gradient dynamics through neurons exhibiting rule-flipped plasticity. Small curl terms preserve the stability of the original solution manifold, resulting in learning dynamics similar to gradient descent. Beyond a critical value, strong curl terms destabilize the solution manifold. Depending on the network architecture, this loss of stability can lead to chaotic learning dynamics that destroy performance. In other cases, the curl terms can counterintuitively speed learning compared to gradient descent by allowing the weight dynamics to escape saddles by temporarily ascending the loss. Our results identify specific architectures capable of supporting robust learning via diverse learning rules, providing an important counterpoint to normative theories of gradient-based learning in neural networks.</p>
+            </div>
+        </div>
+
+        <div class="row">
+            <div class="col-sm-12">
+                <div class="row">
+                    <div class="col-xs-12 col-sm-3 pub-row-heading">Publication</div>
+                    <div class="col-xs-12 col-sm-9">NeurIPS 2025</div>
+                </div>
+            </div>
+        </div>
+        
+        <div class="visible-xs space-below"></div>
+
+        
+
+        <div class="row">
+            <div class="col-sm-12">
+                <div class="row">
+                    <div class="col-xs-12 col-sm-3 pub-row-heading">Date</div>
+                    <div class="col-xs-12 col-sm-9" itemprop="datePublished">
+                        
+                            September, 2025
+                        
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <div class="visible-xs space-below"></div>
+
+        <div class="row" style="padding-top: 10px">
+            <div class="col-sm-12">
+                <div class="row">
+                    <div class="col-xs-12 col-sm-3 pub-row-heading" style="line-height:34px;">Links</div>
+                    <div class="col-xs-12 col-sm-9">
+
+                        
+
+
+
+
+<a class="btn btn-primary btn-outline" href="https://openreview.net/pdf?id=SB1CsuJ11a">PDF</a>
+
+
+
+
+
+
+
+
+
+
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="visible-xs space-below"></div>
+
+        <div class="space-below"></div>
+
+        <div class="article-style"></div>
+
     </div>
+
+
 </div>
-</div>
+
 <footer class="site-footer">
     <div class="container">
         <p class="powered-by">
 
-            © Cayco Gajic Lab, 2022 &middot; 
+            © Cayco Gajic Lab, 2026 &middot; 
 
             Partially powered by the <a href="https://github.com/gcushen/hugo-academic" target="_blank">Academic theme</a> for <a href="http://gohugo.io" target="_blank">Hugo</a>.
 

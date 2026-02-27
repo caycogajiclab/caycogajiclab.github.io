@@ -5,8 +5,48 @@
     <link>https://caycogajiclab.github.io/publication/</link>
     <description>Recent content in Publications on Cayco Gajic Lab</description>
     <generator>Hugo -- gohugo.io</generator>
-    <copyright>&amp;copy; Cayco Gajic Lab, 2022 </copyright>
-    <lastBuildDate>Mon, 06 May 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://caycogajiclab.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>&amp;copy; Cayco Gajic Lab, 2026 </copyright>
+    <lastBuildDate>Fri, 05 Dec 2025 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://caycogajiclab.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Learning in the overparametrized brain</title>
+      <link>https://caycogajiclab.github.io/publication/overparam-jc/</link>
+      <pubDate>Fri, 05 Dec 2025 00:00:00 +0000</pubDate>
+      
+      <guid>https://caycogajiclab.github.io/publication/overparam-jc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Curl Descent : Non-Gradient Learning Dynamics with Sign-Diverse Plasticity</title>
+      <link>https://caycogajiclab.github.io/publication/curl-descent/</link>
+      <pubDate>Thu, 18 Sep 2025 00:00:00 +0000</pubDate>
+      
+      <guid>https://caycogajiclab.github.io/publication/curl-descent/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Role of gap junctions and clustered connectivity in emergent synchronization patterns of inhibitory neuronal networks</title>
+      <link>https://caycogajiclab.github.io/publication/gap-junctions/</link>
+      <pubDate>Mon, 14 Jul 2025 00:00:00 +0000</pubDate>
+      
+      <guid>https://caycogajiclab.github.io/publication/gap-junctions/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Distributed learning across fast and slow neural systems supports efficient motor adaptation</title>
+      <link>https://caycogajiclab.github.io/publication/cerebellocortical/</link>
+      <pubDate>Sun, 01 Jun 2025 00:00:00 +0000</pubDate>
+      
+      <guid>https://caycogajiclab.github.io/publication/cerebellocortical/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>Dimensionality reduction beyond neural subspaces with slice tensor component analysis</title>
       <link>https://caycogajiclab.github.io/publication/slicetca/</link>

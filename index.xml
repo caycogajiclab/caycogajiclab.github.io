@@ -5,8 +5,48 @@
     <link>https://caycogajiclab.github.io/</link>
     <description>Recent content on Cayco Gajic Lab</description>
     <generator>Hugo -- gohugo.io</generator>
-    <copyright>&amp;copy; Cayco Gajic Lab, 2022 </copyright>
-    <lastBuildDate>Mon, 06 May 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://caycogajiclab.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>&amp;copy; Cayco Gajic Lab, 2026 </copyright>
+    <lastBuildDate>Fri, 05 Dec 2025 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://caycogajiclab.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Learning in the overparametrized brain</title>
+      <link>https://caycogajiclab.github.io/publication/overparam-jc/</link>
+      <pubDate>Fri, 05 Dec 2025 00:00:00 +0000</pubDate>
+      
+      <guid>https://caycogajiclab.github.io/publication/overparam-jc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Curl Descent : Non-Gradient Learning Dynamics with Sign-Diverse Plasticity</title>
+      <link>https://caycogajiclab.github.io/publication/curl-descent/</link>
+      <pubDate>Thu, 18 Sep 2025 00:00:00 +0000</pubDate>
+      
+      <guid>https://caycogajiclab.github.io/publication/curl-descent/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Role of gap junctions and clustered connectivity in emergent synchronization patterns of inhibitory neuronal networks</title>
+      <link>https://caycogajiclab.github.io/publication/gap-junctions/</link>
+      <pubDate>Mon, 14 Jul 2025 00:00:00 +0000</pubDate>
+      
+      <guid>https://caycogajiclab.github.io/publication/gap-junctions/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Distributed learning across fast and slow neural systems supports efficient motor adaptation</title>
+      <link>https://caycogajiclab.github.io/publication/cerebellocortical/</link>
+      <pubDate>Sun, 01 Jun 2025 00:00:00 +0000</pubDate>
+      
+      <guid>https://caycogajiclab.github.io/publication/cerebellocortical/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>Dimensionality reduction beyond neural subspaces with slice tensor component analysis</title>
       <link>https://caycogajiclab.github.io/publication/slicetca/</link>
@@ -94,26 +134,18 @@
       <pubDate>Tue, 12 Jul 2016 15:52:22 +0200</pubDate>
       
       <guid>https://caycogajiclab.github.io/member/alex/</guid>
-      <description>I am a Junior Professor in the Departement D’Etudes Cognitives at ENS. My formal training lies squarely in applied mathematics, and I completed my PhD under the supervision of Eric Shea Brown at the University of Washington. Throughout my PhD I became increasingly interested in neuroscience, and wanted to learn more about the kinds of questions that were important to experimental neuroscientists. For my postdoc, I decided to join Angus Silver’s Angus Silver&amp;rsquo;s lab at UCL, where I began to focus on the cerebellar circuit while working closely with the experimentalists in his team.</description>
+      <description>I am a Professor in the Departement D’Etudes Cognitives at ENS with affiliations in the ENS-PSL Quantitative Biology Center (Qbio) and the Paris AI Research Institute (PRAIRIE). My research interests lie at the intersection of neuroscience, machine learning, and mathematical modeling. I am mathematically omnivorous, and my work draws on a variety of tools spanning dynamical systems, matrix and tensor analysis, differential geometry, probabilistic modeling, and high-dimensional statistics. In 2024 I was awarded and ERC Consolidator grant to investigate how latent dynamics in neural populations evolve during learning, with a focus on motor learning in complex tasks.</description>
     </item>
     
     <item>
-      <title>Heike Stein</title>
-      <link>https://caycogajiclab.github.io/member/heike/</link>
+      <title>Liana Akobian</title>
+      <link>https://caycogajiclab.github.io/member/liana/</link>
       <pubDate>Tue, 12 Jul 2016 15:52:22 +0200</pubDate>
       
-      <guid>https://caycogajiclab.github.io/member/heike/</guid>
-      <description>Since 2020, I am a postdoc with Alex Cayco Gajic at the Group for Neural Theory. Before that, I obtained my PhD from the Universitat de Barcelona, Spain, where I worked with Albert Compte to understand how NMDA receptor dysfunction affects working memory by altering prefrontal attractor dynamics.
-In my postdoc, I am diving into the fields of motor learning and naturalistic behavior, the cerebellum, and how the cerebellum interacts with the neocortex to guide behavior and learning.</description>
-    </item>
-    
-    <item>
-      <title>Helen Todd</title>
-      <link>https://caycogajiclab.github.io/member/helen/</link>
-      <pubDate>Tue, 12 Jul 2016 15:52:22 +0200</pubDate>
-      
-      <guid>https://caycogajiclab.github.io/member/helen/</guid>
-      <description>I am currently doing a PhD under the co-supervision of Boris Gutkin and Alex Cayco-Gajic at ENS Paris. My thesis focuses on modelling rapid synchronisation of interneurons in the cerebellum.</description>
+      <guid>https://caycogajiclab.github.io/member/liana/</guid>
+      <description>I am a Research Assistant at the Group for Neural Theory at Ecole Normale Supérieure in Paris.
+Before, I worked at the Zimmer Lab, where I studied the neural dynamics of C. elegans as part of my thesis. My research focused on developing data-driven computational models to disambiguate intrinsic (autonomous) dynamics and actuated (non-autonomous or control) dynamics.
+I am currently using Schur Decomposition methods to identify interpretable representations of RNN weights.</description>
     </item>
     
     <item>
@@ -122,8 +154,26 @@ In my postdoc, I am diving into the fields of motor learning and naturalistic be
       <pubDate>Tue, 12 Jul 2016 15:52:22 +0200</pubDate>
       
       <guid>https://caycogajiclab.github.io/member/mattia/</guid>
-      <description>I am a PhD student at the Group for Neural Theory at Ecole Normale Supérieure in Paris . I have interests at the interface of Computational Neuroscience and Artificial Intelligence.
-I performed my bachelor internship in the laboratory of Luca Berdondini at Italian Institute of Technology on large-scale neural recordings, spike sorting, and clustering. My master thesis focused on stochastic gradient descent methods for training recurrent neural networks inspired by biological findings under the supervision of Vincent Hakim at LPENS.</description>
+      <description>Since 2022, I have been a QLife PhD student in the Cayco-Gajic lab, where I investigate how the brain learns through interactions with its environment. My research combines deep reinforcement learning with experimental neural data to uncover the mechanisms underlying motor learning, adaptation, and error-driven control.
+During my undergraduate studies in electrical engineering and theoretical physics, I developed a strong interest in artificial intelligence and neuroscience, and in how the two fields can mutually inform one another.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://caycogajiclab.github.io/alumni/heike/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://caycogajiclab.github.io/alumni/heike/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://caycogajiclab.github.io/alumni/helen/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://caycogajiclab.github.io/alumni/helen/</guid>
+      <description></description>
     </item>
     
     <item>
@@ -137,6 +187,15 @@ Minyae adgnoscitque fugiebat parentis ausum superos huius Ait erili meruisse iac
     </item>
     
     <item>
+      <title>Arno Granier</title>
+      <link>https://caycogajiclab.github.io/member/arno/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://caycogajiclab.github.io/member/arno/</guid>
+      <description>I am a postdoctoral researcher at Ecole Normale Supérieure within the group of N Alex Cayco-Gajic. I studied computational neuroscience at University of Bern (with Walter Senn) and the Institute of Neuroinformatics Zürich (with Matthew Cook). My interests span continual learning in recurrent networks, compressed generative encoding of neural connectivity, and computaitonal implication of cell-type-specific connectivity.</description>
+    </item>
+    
+    <item>
       <title>Hugo Ninou</title>
       <link>https://caycogajiclab.github.io/member/hugo/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -147,23 +206,43 @@ My work focuses on the dynamics of learning in biologically plausible neural net
     </item>
     
     <item>
+      <title>Julian Brandon</title>
+      <link>https://caycogajiclab.github.io/member/julian/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://caycogajiclab.github.io/member/julian/</guid>
+      <description>I am a research assistant at the Group for Neural Theory at ENS in Paris. My interests are in learning dynamics, dynamical systems, and geometry-based methods for computational neuroscience and machine learning.
+My masters thesis focused on applying a Riemannian geometric framework to understand neural representations across learning regimes in neural networks, under the supervision of Angus Chadwick and Arthur Pellegrino.
+I am currently researching mode collapse in generative flow models, with a view of linking this to low-rank biases across training.</description>
+    </item>
+    
+    <item>
       <title>Leonardo Agueci</title>
       <link>https://caycogajiclab.github.io/member/leo/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://caycogajiclab.github.io/member/leo/</guid>
-      <description>I am a Ph.D. in the Group for Neural Theory at ENS in Paris. I am currently working on probing the cerebello-cortical loop during motor learning and behavior through mMachine learning and mathematical techniques.Previously, I was a research assistant in the group of Andrea Calimera, EDA, Politecnico di Torino, working in machine learning techniques application on predictive maintenance in the MADEin4 and R3-PowerUP european projects, and on development of neural network properties verification algorithms.</description>
+      <description>My current research focuses on understanding the role of cerebellum during learning. I did my Ph.D. with Alex, probing the cerebello-cortical loop during motor learning and behavior using recurrent neural networks.Previously, I was a research assistant in the group of Andrea Calimera, EDA, Politecnico di Torino, working in machine learning techniques application on predictive maintenance in the MADEin4 and R3-PowerUP european projects, and on development of neural network properties verification algorithms.</description>
     </item>
     
     <item>
-      <title>The mission of the group</title>
+      <title>Luis Riquelme</title>
+      <link>https://caycogajiclab.github.io/member/luis/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://caycogajiclab.github.io/member/luis/</guid>
+      <description>Before my postdoc with Alex Cayco-Gajic, I was a postdoc with Gilles Laurent at the Max Planck Institute for Brain Research in Frankfurt. I did my Ph.D. with Julijana Gjorgjieva at the Technical University of Munich. My BSc and MSc were in computer science and I have experience as a professional software engineer.
+During my PhD and first postdoc, I studied reptile brains, from cortical dynamics in turtles to multi-area coordination during lizard sleep, to extract general principles of brain function from an evolutionary perspective.</description>
+    </item>
+    
+    <item>
+      <title>Research</title>
       <link>https://caycogajiclab.github.io/overview/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://caycogajiclab.github.io/overview/</guid>
-      <description>Research Overview The overarching goal of our team is to understand how neural populations represent behavior and change over learning, using mathematical modelling and through development of data-driven methods.
-We currently have openings - contact Alex if you are interested in joining the team!
- </description>
+      <description>Research Overview Our lab studies how learning unfolds in both neural populations and in artificial networks, with an overall aim to link the rules governing weight updates with representational changes and network-level computations.
+A central focus of our research is how learning shapes population dynamics to produce new computations. We build mathematical models using both theoretical and data-driven approaches. First, we study the dynamics of gradient flow and biologically-inspired alternatives to understand how the structure of learning rules influences representational geometry and overall model behavior.</description>
     </item>
     
   </channel>
