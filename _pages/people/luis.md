@@ -1,0 +1,3 @@
+### Luis Riquelme
+
+Before joining the Cayco-Gajic team, I did my PhD with [Julijana Gjorgjieva](https://www.mls.ls.tum.de/compneuro/home/) at the Technical University of Munich and a postdoc with [Gilles Laurent](https://brain.mpg.de/laurent) at the Max Planck Institute for Brain Research. My BSc and MSc were in computer science, and I also have experience as a software engineer. I am currently a postdoctoral fellow of the [Human Frontier Science Program](https://www.hfsp.org/), developing state space models to analyse experimental data to understand how neuronal dynamics evolve during motor learning.

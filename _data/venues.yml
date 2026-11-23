@@ -1,9 +1,27 @@
-"AJP":
-  url: https://aapt.scitation.org/journal/ajp
+"NeurIPS":
+  url: https://neurips.cc/
+  color: "#6f42c1"
+
+"Nat. Neurosci.":
+  url: https://www.nature.com/neuro/
+  color: "#c0392b"
+
+"Nat. Commun.":
+  url: https://www.nature.com/ncomms/
+  color: "#d35400"
+
+"Neuron":
+  url: https://www.cell.com/neuron/
+  color: "#00695c"
+
+"PRE":
+  url: https://journals.aps.org/pre/
   color: "#00369f"
 
-"PhysRev":
-  url: https://journals.aps.org/
+"Curr. Opin.":
+  url: https://www.sciencedirect.com/journal/current-opinion-in-neurobiology
+  color: "#e67e22"
 
-"Vision":
-  color: "#009f36"
+"bioRxiv":
+  url: https://www.biorxiv.org/
+  color: "#b31b1b"

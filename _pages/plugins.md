@@ -3,7 +3,6 @@ layout: page
 title: plugins
 permalink: /plugins/
 nav: false
-description: featured and bundled plugin ecosystem catalog for al-folio v1.x
 ---
 
 `al-folio` `v1.x` is a starter with plugin-owned runtime features.

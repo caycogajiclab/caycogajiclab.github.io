@@ -1,0 +1,3 @@
+### N. Alex Cayco Gajic
+
+I am a Professor in the Departement D’Etudes Cognitives at ENS with affiliations in the ENS-PSL Quantitative Biology Center (Qbio) and the Paris AI Research Institute (PRAIRIE). My research interests lie at the intersection of neuroscience, machine learning, and mathematical modeling. My work draws on a variety of mathematical tools spanning dynamical systems, matrix and tensor analysis, differential geometry, probabilistic modeling, and high-dimensional statistics. In 2024 I was awarded and ERC Consolidator grant to investigate how latent dynamics in neural populations evolve during learning, with a focus on motor learning in complex tasks.

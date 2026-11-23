@@ -1,0 +1,3 @@
+### Julian Brandon
+
+I am a PhD student in the Group for Neural Theory and Centre Sciences des Données at ENS, under the joint supervision of Alex Cayco-Gajic, [Arthur Pellegrino](https://sites.google.com/view/arthur-pellegrino/home) and Bruno Loureiro. I was recently awarded a PhD scholarship from the PRAIRIE institute of AI. My MSc was in Artificial Intelligence, under the supervision of [Angus Chadwick](https://homepages.inf.ed.ac.uk/achadwic/index.html), and my BSc was in Theoretical Physics at the University of Birmingham. My previous work studied mode collapse in generative flow models, and I am currently working on applying kernel methods to learn the geometry of neural representations from data.

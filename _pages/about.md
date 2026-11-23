@@ -2,16 +2,16 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: Neural Representations of Learning and Behavior · <a href='https://gnt.dec.ens.fr/en'>Group for Neural Theory</a>, <a href='https://www.ens.psl.eu/en'>École Normale Supérieure</a>, Paris
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: alex_profile.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>Group for Neural Theory</p>
+    <p>École normale supérieure</p>
+    <p>29 rue d'Ulm, 75005 Paris</p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
@@ -22,13 +22,13 @@ announcements:
   limit: 5 # leave blank to include all the news in the `_news` folder
 
 latest_posts:
-  enabled: true
-  scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
-  limit: 3 # leave blank to include all the blog posts
+  enabled: false
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](https://www.reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+N. Alex Cayco Gajic is a Full Professor at the [École Normale Supérieure](https://www.ens.psl.eu/en) in Paris, and obtained a PhD in Applied Mathematics from the University of Washington.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+The lab works at the intersection of machine learning, mathematical modelling, and neuroscience. Our long-term research goal is to develop a mathematical framework to understand the geometry and dynamics of learning in artificial neural networks and the brain.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+At ENS, Alex leads the Neural Representations of Learning and Behavior team in the Group for Neural Theory, with secondary affiliations in the [ENS Quantitative Biology Centre](https://qbio.ens.psl.eu/) and the [Paris Artificial Intelligence Research Institute](https://prairie-institute.fr/) (PRAIRIE).
+
+Read more about our [research](/research/), [publications](/publications/) and the [people](/people/) in the lab.
