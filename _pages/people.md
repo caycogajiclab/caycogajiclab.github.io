@@ -19,7 +19,7 @@ profiles:
     image_circular: false
     more_info: >
       <p>Postdoctoral Researcher</p>
-      <p><a href="https://arneuro.github.io/">Website</a> · <a href="https://scholar.google.com/citations?user=eVLt5y8AAAAJ&hl=en">Google Scholar</a> · <a href="https://github.com/arneuro">GitHub</a></p>
+      <p><a href="https://arneuro.github.io/">Website</a> · <a href="https://scholar.google.com/citations?user=dgSQuXsAAAAJ">Google Scholar</a> · <a href="https://github.com/arneuro">GitHub</a></p>
   - align: right
     image: people/luis.jpg
     content: people/luis.md
