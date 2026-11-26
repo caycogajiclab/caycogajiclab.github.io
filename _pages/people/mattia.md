@@ -6,4 +6,3 @@ During my undergraduate studies in electrical engineering and theoretical physic
 
 In recent years, I have also been actively involved in teaching practical courses in the Master for Life Sciences program at the ENS biology department, covering topics ranging from Quantitative Viral Dynamics to Advanced Data Analysis.
 
-Outside the lab, I divide my time between climbing walls and seeking freedom on my gravel bike.
